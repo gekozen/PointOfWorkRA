@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PointOfWorkRA/static/css/main.fbba9caf.css",
+    "main.js": "/PointOfWorkRA/static/js/main.11b40a39.js",
+    "static/js/787.86bd8e42.chunk.js": "/PointOfWorkRA/static/js/787.86bd8e42.chunk.js",
+    "static/media/placeholder.jpg": "/PointOfWorkRA/static/media/placeholder.eb7bcda8dff4dca832ef.jpg",
+    "index.html": "/PointOfWorkRA/index.html",
+    "main.fbba9caf.css.map": "/PointOfWorkRA/static/css/main.fbba9caf.css.map",
+    "main.11b40a39.js.map": "/PointOfWorkRA/static/js/main.11b40a39.js.map",
+    "787.86bd8e42.chunk.js.map": "/PointOfWorkRA/static/js/787.86bd8e42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbba9caf.css",
+    "static/js/main.11b40a39.js"
+  ]
+}
